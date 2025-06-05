@@ -2,7 +2,8 @@
 
 This repository contains a basic AI-powered assistant agent built using [n8n](https://n8n.io). The agent listens to chat messages, processes them using OpenAI's Chat Model, and enhances its responses with memory and tools like SerpAPI and Calculator.
 
-![Workflow Screenshot](./1101085a-5092-4c80-87b9-70803ed52047.png)
+![Workflow Screenshot](![image](https://github.com/user-attachments/assets/6df14a34-c043-45dd-b7cf-5538a210b7e0)
+)
 
 ---
 
